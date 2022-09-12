@@ -1,0 +1,121 @@
+,ZIP Code,Classification,City,Population,Timezone,Area Code(s)
+0,ZIP Code 98001,General,Auburn,"31,911",Pacific,253
+1,ZIP Code 98002,General,Auburn,"31,647",Pacific,253
+2,ZIP Code 98003,General,Federal Way,"44,151",Pacific,253
+3,ZIP Code 98004,General,Bellevue,"27,946",Pacific,425
+4,ZIP Code 98005,General,Bellevue,"17,714",Pacific,425
+5,ZIP Code 98006,General,Bellevue,"36,364",Pacific,425
+6,ZIP Code 98007,General,Bellevue,"24,889",Pacific,425
+7,ZIP Code 98008,General,Bellevue,"24,411",Pacific,425
+8,ZIP Code 98009,P.O. Box,Bellevue,0,Pacific,425
+9,ZIP Code 98010,General,Black Diamond,"5,025",Pacific,360/564
+10,ZIP Code 98011,General,Bothell,"29,212",Pacific,425
+11,ZIP Code 98013,P.O. Box,Burton,0,Pacific,206
+12,ZIP Code 98014,General,Carnation,"6,765",Pacific,425
+13,ZIP Code 98015,P.O. Box,Bellevue,0,Pacific,425
+14,ZIP Code 98019,General,Duvall,"10,725",Pacific,425
+15,ZIP Code 98022,General,Enumclaw,"20,987",Pacific,360/564
+16,ZIP Code 98023,General,Federal Way,"47,510",Pacific,253
+17,ZIP Code 98024,General,Fall City,"5,650",Pacific,425
+18,ZIP Code 98025,P.O. Box,Hobart,0,Pacific,425
+19,ZIP Code 98027,General,Issaquah,"26,141",Pacific,425
+20,ZIP Code 98028,General,Kenmore,"20,419",Pacific,425
+21,ZIP Code 98029,General,Issaquah,"24,348",Pacific,425
+22,ZIP Code 98030,General,Kent,"33,769",Pacific,253
+23,ZIP Code 98031,General,Kent,"36,581",Pacific,253/425
+24,ZIP Code 98032,General,Kent,"33,853",Pacific,253/425
+25,ZIP Code 98033,General,Kirkland,"34,338",Pacific,425/206
+26,ZIP Code 98034,General,Kirkland,"40,407",Pacific,425/206
+27,ZIP Code 98035,P.O. Box,Kent,0,Pacific,253/425
+28,ZIP Code 98038,General,Maple Valley,"31,171",Pacific,425
+29,ZIP Code 98039,General,Medina,"2,971",Pacific,425
+30,ZIP Code 98040,General,Mercer Island,"22,699",Pacific,206
+31,ZIP Code 98041,P.O. Box,Bothell,0,Pacific,425
+32,ZIP Code 98042,General,Kent,"43,673",Pacific,253/425
+33,ZIP Code 98045,General,North Bend,"13,888",Pacific,425
+34,ZIP Code 98047,General,Pacific,"6,339",Pacific,253
+35,ZIP Code 98050,P.O. Box,Preston,322,Pacific,425
+36,ZIP Code 98051,General,Ravensdale,"3,270",Pacific,360/564
+37,ZIP Code 98052,General,Redmond,"58,442",Pacific,206/425
+38,ZIP Code 98053,General,Redmond,"18,784",Pacific,425/206
+39,ZIP Code 98055,General,Renton,"21,904",Pacific,425
+40,ZIP Code 98056,General,Renton,"32,489",Pacific,425
+41,ZIP Code 98057,General,Renton,"10,613",Pacific,425
+42,ZIP Code 98058,General,Renton,"41,938",Pacific,425
+43,ZIP Code 98059,General,Renton,"34,463",Pacific,425
+44,ZIP Code 98062,P.O. Box,Seahurst,0,Pacific,206/253
+45,ZIP Code 98063,P.O. Box,Federal Way,0,Pacific,253
+46,ZIP Code 98064,P.O. Box,Kent,0,Pacific,253/425
+47,ZIP Code 98065,General,Snoqualmie,"12,699",Pacific,425
+48,ZIP Code 98070,General,Vashon,"10,624",Pacific,206
+49,ZIP Code 98071,P.O. Box,Auburn,0,Pacific,253
+50,ZIP Code 98072,General,Woodinville,"22,312",Pacific,425
+51,ZIP Code 98073,P.O. Box,Redmond,0,Pacific,206/425
+52,ZIP Code 98074,General,Sammamish,"25,748",Pacific,425/206
+53,ZIP Code 98075,General,Sammamish,"20,715",Pacific,425
+54,ZIP Code 98077,General,Woodinville,"13,585",Pacific,425
+55,ZIP Code 98083,P.O. Box,Kirkland,0,Pacific,425/206
+56,ZIP Code 98089,P.O. Box,Kent,0,Pacific,253/425
+57,ZIP Code 98092,General,Auburn,"39,816",Pacific,253
+58,ZIP Code 98093,P.O. Box,Federal Way,0,Pacific,253
+59,ZIP Code 98101,General,Seattle,"10,238",Pacific,206/253/360/425/564
+60,ZIP Code 98102,General,Seattle,"20,756",Pacific,206/360/425/564
+61,ZIP Code 98103,General,Seattle,"45,911",Pacific,206
+62,ZIP Code 98104,General,Seattle,"13,095",Pacific,206/253/360/425/564
+63,ZIP Code 98105,General,Seattle,"43,924",Pacific,206
+64,ZIP Code 98106,General,Seattle,"22,873",Pacific,206
+65,ZIP Code 98107,General,Seattle,"21,147",Pacific,206
+66,ZIP Code 98108,General,Seattle,"22,374",Pacific,206
+67,ZIP Code 98109,General,Seattle,"20,715",Pacific,206/425
+68,ZIP Code 98111,P.O. Box,Seattle,0,Pacific,206/425
+69,ZIP Code 98112,General,Seattle,"21,077",Pacific,206/425
+70,ZIP Code 98113,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+71,ZIP Code 98114,P.O. Box,Seattle,0,Pacific,206/425
+72,ZIP Code 98115,General,Seattle,"46,206",Pacific,206
+73,ZIP Code 98116,General,Seattle,"22,241",Pacific,206
+74,ZIP Code 98117,General,Seattle,"31,365",Pacific,206
+75,ZIP Code 98118,General,Seattle,"42,731",Pacific,206
+76,ZIP Code 98119,General,Seattle,"21,039",Pacific,206
+77,ZIP Code 98121,General,Seattle,"12,628",Pacific,206/360/425/564
+78,ZIP Code 98122,General,Seattle,"31,454",Pacific,206/425
+79,ZIP Code 98124,P.O. Box,Seattle,0,Pacific,206/425
+80,ZIP Code 98125,General,Seattle,"37,081",Pacific,206
+81,ZIP Code 98126,General,Seattle,"20,698",Pacific,206
+82,ZIP Code 98127,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+83,ZIP Code 98129,Unique,Seattle,0,Pacific,206/425
+84,ZIP Code 98131,General,Seattle,0,Pacific,206
+85,ZIP Code 98133,General,Seattle,"44,555",Pacific,206/425
+86,ZIP Code 98134,General,Seattle,644,Pacific,206
+87,ZIP Code 98136,General,Seattle,"14,770",Pacific,206
+88,ZIP Code 98138,P.O. Box,Seattle,0,Pacific,206/425
+89,ZIP Code 98139,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+90,ZIP Code 98141,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+91,ZIP Code 98144,General,Seattle,"26,881",Pacific,206
+92,ZIP Code 98145,P.O. Box,Seattle,0,Pacific,206/425
+93,ZIP Code 98146,General,Seattle,"25,922",Pacific,206/253
+94,ZIP Code 98148,General,Seattle,"10,010",Pacific,206/253
+95,ZIP Code 98154,General,Seattle,0,Pacific,206/253/360/425/564
+96,ZIP Code 98155,General,Seattle,"32,778",Pacific,206/425
+97,ZIP Code 98158,General,Seattle,0,Pacific,206
+98,ZIP Code 98160,P.O. Box,Seattle,0,Pacific,206/425
+99,ZIP Code 98161,General,Seattle,0,Pacific,206/425
+100,ZIP Code 98164,General,Seattle,141,Pacific,206/425
+101,ZIP Code 98165,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+102,ZIP Code 98166,General,Seattle,"20,301",Pacific,206/253
+103,ZIP Code 98168,General,Seattle,"33,734",Pacific,206/425/253
+104,ZIP Code 98170,Unique,Seattle,0,Pacific,206/425
+105,ZIP Code 98174,General,Seattle,0,Pacific,206/425
+106,ZIP Code 98175,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+107,ZIP Code 98177,General,Seattle,"19,030",Pacific,206/425
+108,ZIP Code 98178,General,Seattle,"24,092",Pacific,425/206/253
+109,ZIP Code 98181,Unique,Seattle,0,Pacific,206/425
+110,ZIP Code 98185,Unique,Seattle,0,Pacific,206/425
+111,ZIP Code 98188,General,Seattle,"23,111",Pacific,425/206/253
+112,ZIP Code 98190,Unique,Seattle,0,Pacific,206/425
+113,ZIP Code 98191,Unique,Seattle,0,Pacific,206/425
+114,ZIP Code 98194,P.O. Box,Seattle,0,Pacific,206/253/360/425/564
+115,ZIP Code 98195,Unique,Seattle,0,Pacific,206
+116,ZIP Code 98198,General,Seattle,"34,584",Pacific,206/253
+117,ZIP Code 98199,General,Seattle,"19,686",Pacific,206
+118,ZIP Code 98224,P.O. Box,Baring,294,Pacific,425
+119,ZIP Code 98288,P.O. Box,Skykomish,333,Pacific,425
